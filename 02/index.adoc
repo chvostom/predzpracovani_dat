@@ -1,0 +1,11 @@
+# DOMÁCÍ ÚKOL - Balancování a diskretizace dat
+
+## Zadání
+
+Zadání lze nalézt na začátku souboru 02_homework.ipynb.
+
+## Výsledky
+
+Řešení se také nachází v souboru 02_homework.ipynb. Pro správné fungování je třeba stáhnout soubor ze stránky https://www.dropbox.com/s/aq08ytozfplb97b/data.csv a uložit ho do stejné složky, ze které je spuštěn soubor 02_homework.ipynb.
+
+
